@@ -56,6 +56,18 @@ Prior to running the project be sure to review the associated report and documen
 	* Run each summary R script (household and individual)
 	* Run both median scripts
 
+## Effective use of Dataset Assembly Tool
+
+The project includes two versions of the debt definition scripts. These reflect two different methods for preparing the input data for assembly.
+
+* The first method is slower, involving more manipulation prior to assembly and is slower for the tool to assemble. However, it can be easier
+for the researcher to understand: Each variable appears once in the measure control file.
+* The second method is faster, involving less manipulation prior to assembly and is faster for the tool to assemble. It places labels
+for some output columns within the definition. This can make the assembly harder for the researcher to understand as a single row in the
+control file can produce multiple output variables.
+
+Notes are included with the new defintions to assist researchers using them instead of the older/slower definitions. Researchers wanting to
+make more effective use of the assembly tool may find it useful to compare the methods between the two versions of debt measures.
+
 ## Getting Help
 If you have any questions email info@swa.govt.nz
-
