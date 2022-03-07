@@ -69,5 +69,9 @@ control file can produce multiple output variables.
 Notes are included with the new defintions to assist researchers using them instead of the older/slower definitions. Researchers wanting to
 make more effective use of the assembly tool may find it useful to compare the methods between the two versions of debt measures.
 
+## Citation
+
+Social Wellbeing Agency (2022). Understanding debt to government 2. Source code. https://github.com/nz-social-wellbeing-agency/understanding_debt_and_debtors_to_government_2
+
 ## Getting Help
 If you have any questions email info@swa.govt.nz
